@@ -28,7 +28,7 @@ It is a control defined by a template. Every control has a **ControlTemplate** p
 
 ## Overview
 
-The controls available are:
+There are currently **17 controls**. The controls available are:
 
 ### AvatarView
 
