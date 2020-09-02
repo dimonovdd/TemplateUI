@@ -28,7 +28,7 @@ It is a control defined by a template. Every control has a **ControlTemplate** p
 
 ## Overview
 
-There are currently **17 controls**. The controls available are:
+There are currently **18 controls**. The controls available are:
 
 ### AvatarView
 
@@ -89,6 +89,12 @@ Represents the control that redistributes space between columns or rows of a Gri
 Use this control to add an attention–getting text message that scrolls continuously across the screen.
 
 <img src="images/templateui-marquee.gif" Width="300" />
+
+### PinBox
+
+Allow to introduce a PIN or verification Code.
+
+<img src="images/templateui-pinbox.png" Width="300" />
 
 ### ProgressBar
 
