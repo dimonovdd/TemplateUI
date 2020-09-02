@@ -8412,6 +8412,7 @@ namespace TemplateUI.Gallery.Droid
 			
 			// aapt resource value: 0x7F070083
 			public const int notify_panel_notification_icon_bg = 2131165315;
+			public const int pinbox = 2131165315;
 			
 			// aapt resource value: 0x7F070084
 			public const int progressbar = 2131165316;
