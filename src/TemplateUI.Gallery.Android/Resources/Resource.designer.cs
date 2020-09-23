@@ -8412,44 +8412,48 @@ namespace TemplateUI.Gallery.Droid
 			
 			// aapt resource value: 0x7F070083
 			public const int notify_panel_notification_icon_bg = 2131165315;
-			public const int pinbox = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int progressbar = 2131165316;
+			public const int pinbox = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int rate = 2131165317;
+			public const int progressbar = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int redstar = 2131165318;
+			public const int rate = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int segmentedcontrol = 2131165319;
+			public const int redstar = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int shield = 2131165320;
+			public const int segmentedcontrol = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int snackbar = 2131165321;
-			public const int slider = 2131165321;
+			public const int shield = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int started = 2131165322;
+			public const int slider = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int tag = 2131165323;
+			public const int snackbar = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int toggleswitch = 2131165324;
+			public const int started = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int tooltip_frame_dark = 2131165325;
+			public const int tag = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int tooltip_frame_light = 2131165326;
+			public const int toggleswitch = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int whitefile = 2131165327;
+			public const int tooltip_frame_dark = 2131165327;
+			
+			// aapt resource value: 0x7F070090
+			public const int tooltip_frame_light = 2131165328;
+			
+			// aapt resource value: 0x7F070091
+			public const int whitefile = 2131165329;
 			
 			static Drawable()
 			{
